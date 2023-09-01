@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-echo "ALX School is so cool!"
-=======
-echo "ALX School"
->>>>>>> e338f57e7812033e0229c9f3ac576beb8181ca3c
-
+echo "ALX School is so cool"
